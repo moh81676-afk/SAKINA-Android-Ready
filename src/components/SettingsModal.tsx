@@ -561,16 +561,16 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({
                 </span>
                 <p className="text-xs text-white font-thmanyah font-bold">
                   {isAr
-                    ? 'مهندس الذكاء الاصطناعي محمد علي شبل زهو'
-                    : 'AI Engineer Mohamed Ali Shabl Zaho'}
+                    ? 'مهندس الذكاء الاصطناعي محمد علي شبل'
+                    : 'AI Engineer Mohamed Ali Shabl'}
                 </p>
                 <p className="text-[11px] text-slate-300 font-thmanyah leading-relaxed">
                   {isAr
-                    ? 'تم التصميم والتطوير بواسطة مهندس الذكاء الاصطناعي محمد علي شبل زهو.'
-                    : 'Designed and developed by AI Engineer Mohamed Ali Shabl Zaho.'}
+                    ? 'تم التصميم والتطوير بواسطة مهندس الذكاء الاصطناعي محمد علي شبل.'
+                    : 'Designed and developed by AI Engineer Mohamed Ali Shabl.'}
                 </p>
                 <p className="text-[10px] text-slate-400 font-mono">
-                  © 2026 Mohamed Ali Shabl Zaho. {isAr ? 'جميع الحقوق محفوظة.' : 'All rights reserved.'}
+                  © 2026 Mohamed Ali Shabl. {isAr ? 'جميع الحقوق محفوظة.' : 'All rights reserved.'}
                 </p>
               </div>
 

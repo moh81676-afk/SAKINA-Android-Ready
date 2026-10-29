@@ -46,12 +46,12 @@ The app runs at `http://localhost:3000`. Without a `GEMINI_API_KEY`, the AI comp
 
 ## 👨‍💻 Developer
 
-- **Name:** Mohamed Ali Shabl Zaho | محمد علي شبل زهو
+- **Name:** Mohamed Ali Shabl | محمد علي شبل
 - **Title:** AI Engineer | مهندس ذكاء اصطناعي
 - **Email:** [mohammed.ali.shabl1@gmail.com](mailto:mohammed.ali.shabl1@gmail.com)
 - **LinkedIn:** [mohamedali-zaho](https://linkedin.com/in/mohamedali-zaho)
 
-> “I am Mohamed Ali Shabl Zaho, an AI Engineer and the developer of SAKINA. My goal is to use technology and artificial intelligence to build meaningful digital experiences that combine simplicity, accuracy, and innovation, with a strong focus on design quality, usability, and user privacy.”
+> “I am Mohamed Ali Shabl, an AI Engineer and the developer of SAKINA. My goal is to use technology and artificial intelligence to build meaningful digital experiences that combine simplicity, accuracy, and innovation, with a strong focus on design quality, usability, and user privacy.”
 
 ## 📜 Third-Party Assets & Attributions
 
@@ -65,9 +65,9 @@ Third-party rights remain with their respective owners, subject to their applica
 ## ⚖️ Copyright Notice
 
 ```
-© 2026 Mohamed Ali Shabl Zaho. All rights reserved.
+© 2026 Mohamed Ali Shabl. All rights reserved.
 
-SAKINA is a digital project designed and developed by Mohamed Ali Shabl Zaho.
+SAKINA is a digital project designed and developed by Mohamed Ali Shabl.
 The original source code, designs, and creative materials produced by the
 developer are subject to applicable intellectual property rights and laws.
 

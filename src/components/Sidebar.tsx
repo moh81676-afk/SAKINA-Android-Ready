@@ -170,11 +170,11 @@ export const Sidebar: React.FC<SidebarProps> = ({
         >
           <span className="text-[10px] text-slate-400 group-hover:text-emerald-400 font-thmanyah block transition-colors leading-tight">
             {isAr
-              ? 'تم التصميم والتطوير بواسطة مهندس الذكاء الاصطناعي محمد علي شبل زهو'
-              : 'Designed and developed by AI Engineer Mohamed Ali Shabl Zaho'}
+              ? 'تم التصميم والتطوير بواسطة مهندس الذكاء الاصطناعي محمد علي شبل'
+              : 'Designed and developed by AI Engineer Mohamed Ali Shabl'}
           </span>
           <span className="text-[9px] text-[#e6c387]/70 font-mono block">
-            © {new Date().getFullYear()} Mohamed Ali Shabl Zaho
+            © {new Date().getFullYear()} Mohamed Ali Shabl
           </span>
         </button>
 

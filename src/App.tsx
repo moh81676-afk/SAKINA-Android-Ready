@@ -516,7 +516,7 @@ export default function App() {
           {/* Persistent Page Footer Attribution & Copyright Notice */}
           <footer className="mt-12 pt-6 pb-20 lg:pb-8 border-t border-white/5 text-center space-y-2">
             <p className="text-[11px] font-mono text-slate-500">
-              © {new Date().getFullYear()} Mohamed Ali Shabl Zaho • {isAr ? 'جميع الحقوق محفوظة' : 'All rights reserved'}
+              © {new Date().getFullYear()} Mohamed Ali Shabl • {isAr ? 'جميع الحقوق محفوظة' : 'All rights reserved'}
             </p>
           </footer>
         </main>

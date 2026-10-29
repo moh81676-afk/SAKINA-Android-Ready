@@ -58,7 +58,7 @@ export const AboutDeveloper: React.FC<AboutDeveloperProps> = ({
             </div>
 
             <h1 className="text-2xl md:text-3xl font-black text-white tracking-tight font-sans">
-              ENG. Mohamed Ali Shabl Zaho
+              ENG. Mohamed Ali Shabl
             </h1>
 
             <p className="text-sm font-mono text-[#fae3b3] font-bold">
@@ -69,7 +69,7 @@ export const AboutDeveloper: React.FC<AboutDeveloperProps> = ({
             <div className="pt-2">
               <div className="inline-block p-2.5 px-4 rounded-2xl bg-white/5 border border-white/10 text-xs text-slate-200 font-sans">
                 <span className="text-[#e6c387] font-bold mr-1">Credit:</span>
-                Designed and developed by AI Engineer Mohamed Ali Shabl Zaho.
+                Designed and developed by AI Engineer Mohamed Ali Shabl.
               </div>
             </div>
           </div>
@@ -91,7 +91,7 @@ export const AboutDeveloper: React.FC<AboutDeveloperProps> = ({
         </div>
 
         <p className="text-sm md:text-base text-slate-200 leading-relaxed font-sans">
-          I am Mohamed Ali Shabl Zaho, an AI Engineer and the developer of SAKINA. My goal is to use technology and artificial intelligence to build meaningful digital experiences that combine simplicity, accuracy, and innovation, with a strong focus on design quality, usability, and user privacy.
+          I am Mohamed Ali Shabl, an AI Engineer and the developer of SAKINA. My goal is to use technology and artificial intelligence to build meaningful digital experiences that combine simplicity, accuracy, and innovation, with a strong focus on design quality, usability, and user privacy.
         </p>
 
         <div className="pt-2 flex items-center gap-2 text-xs text-slate-400">
@@ -167,10 +167,10 @@ export const AboutDeveloper: React.FC<AboutDeveloperProps> = ({
           {/* Primary English Copyright Notice */}
           <div className="p-4 rounded-2xl bg-black/40 border border-white/5 space-y-2">
             <p className="font-mono text-[#fae3b3] font-bold text-[11px]">
-              © 2026 Mohamed Ali Shabl Zaho. All rights reserved.
+              © 2026 Mohamed Ali Shabl. All rights reserved.
             </p>
             <p className="font-sans text-slate-200">
-              SAKINA is a digital project designed and developed by Mohamed Ali Shabl Zaho. The original source code, designs, and creative materials produced by the developer are subject to applicable intellectual property rights and laws.
+              SAKINA is a digital project designed and developed by Mohamed Ali Shabl. The original source code, designs, and creative materials produced by the developer are subject to applicable intellectual property rights and laws.
             </p>
             <p className="font-sans text-slate-400 text-[11px]">
               Third-party rights remain with their respective owners, including audio recordings, fonts, software libraries, and external services, subject to their applicable licenses and terms.
@@ -180,10 +180,10 @@ export const AboutDeveloper: React.FC<AboutDeveloperProps> = ({
           {/* Secondary Arabic Copyright Notice */}
           <div className="p-4 rounded-2xl bg-black/30 border border-white/5 space-y-2 text-right" dir="rtl">
             <p className="font-mono text-[#fae3b3] font-bold text-[11px]">
-              © 2026 محمد علي شبل زهو. جميع الحقوق محفوظة.
+              © 2026 محمد علي شبل. جميع الحقوق محفوظة.
             </p>
             <p className="font-thmanyah text-slate-300">
-              تطبيق سَكينة هو مشروع رقمي تم تصميمه وتطويره بواسطة محمد علي شبل زهو. تخضع الشيفرة البرمجية الأصلية والتصميمات والمحتويات الإبداعية التي أنشأها المطوّر لحقوق الملكية الفكرية المطبقة وفقًا للقانون.
+              تطبيق سَكينة هو مشروع رقمي تم تصميمه وتطويره بواسطة محمد علي شبل. تخضع الشيفرة البرمجية الأصلية والتصميمات والمحتويات الإبداعية التي أنشأها المطوّر لحقوق الملكية الفكرية المطبقة وفقًا للقانون.
             </p>
           </div>
         </div>
