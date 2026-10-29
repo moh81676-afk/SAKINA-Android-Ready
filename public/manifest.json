@@ -1,0 +1,41 @@
+{
+  "id": "/",
+  "name": "سَكينة | SAKINA — يومك على إيقاع الصلاة",
+  "short_name": "سَكينة",
+  "description": "رفيق إسلامي ذكي يجمع مواقيت الصلاة الدقيقة، الأذكار المحققة، بوصلة القبلة، وإيقاع اليوم الروحي.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#060d17",
+  "theme_color": "#060d17",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["lifestyle", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

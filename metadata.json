@@ -1,0 +1,10 @@
+{
+  "name": "Remix SAKINA | سَكينة",
+  "description": "رفيق إسلامي ذكي يجمع مواقيت الصلاة الدقيقة، خاتم الصلاة الحي، الأذكار المحققة، بوصلة القبلة، وإيقاع اليوم الروحي.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

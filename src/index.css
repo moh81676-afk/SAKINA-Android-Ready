@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-thmanyah: 'Thmanyah Sans', 'Noto Sans Arabic', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-thmanyah-serif: 'Thmanyah Serif Display', 'Amiri', serif;
+  }
+
+  body {
+    font-family: var(--font-thmanyah);
+    background-color: #060d17;
+    color: #f8fafc;
+    -webkit-tap-highlight-color: transparent;
+    overflow-x: hidden;
+    line-height: 1.6;
+  }
+
+  /* Quranic script typography */
+  .quran-text {
+    font-family: 'Amiri', 'Thmanyah Serif Display', serif;
+    line-height: 2.2;
+    word-spacing: 0.15em;
+  }
+}
+
+/* Prevent text clipping and collision across all responsive widths */
+* {
+  min-width: 0;
+}
+
+p, span, h1, h2, h3, h4, button {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* Hide scrollbar while preserving scrollability */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Subtle glow effects */
+.ring-glow {
+  filter: drop-shadow(0 0 16px rgba(16, 185, 129, 0.4));
+}
+
+.gold-glow {
+  filter: drop-shadow(0 0 14px rgba(230, 195, 135, 0.35));
+}
+
+.emerald-glow {
+  filter: drop-shadow(0 0 20px rgba(16, 185, 129, 0.25));
+}
+
+/* Safe area insets for iOS Home Indicator and Notch */
+.pb-safe {
+  padding-bottom: max(1rem, env(safe-area-inset-bottom));
+}
+.pt-safe {
+  padding-top: max(1rem, env(safe-area-inset-top));
+}
